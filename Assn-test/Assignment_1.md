@@ -4,7 +4,6 @@
 <b>
  Make a list of all the git commands covered in the class and explain each of them with an example. Share the screenshots of your work (command execution) in the document along with the respective explanation. 
 </b>
-
 ---
 
 1. `git init` - creates a new git repository in the present working directory.
