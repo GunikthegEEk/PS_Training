@@ -10,7 +10,7 @@
 1. `git init` - creates a new git repository in the present working directory.
 
     Here I’ve initialized a repo in Day 1 directory.
-    ![init](./static/image-000.png)
+    ![init](image-000.png)
 
 2. `git add` -  makes file changes ready to commit.
 
